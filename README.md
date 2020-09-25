@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/delete-flatiron-repos.svg)](https://badge.fury.io/js/delete-flatiron-repos)
 # Flatiron Repo Removal - An automatic way to remove those annoying coursework forks!
 
 <img src="https://i.imgur.com/loigDi8.gif"  alt="Example Usage"/>

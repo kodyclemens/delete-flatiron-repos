@@ -8,6 +8,10 @@
 	"main": "index.js",
 	"author": "Kody Clemens <kody@kodyclemens.com> (https://github.com/kodyclemens)",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kodyclemens/delete-flatiron-repos.git"
+	},
 	"keywords": [
 		"delete repo",
 		"github",
