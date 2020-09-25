@@ -1,0 +1,26 @@
+{
+	"name": "delete-flatiron-repos",
+	"version": "1.0.3",
+	"description": "A CLI tool to automatically remove Flatiron School GitHub repositories that were forked during coursework.",
+	"bin": {
+		"delete-flatiron-repos": "./index.js"
+	},
+	"main": "index.js",
+	"author": "Kody Clemens <kody@kodyclemens.com> (https://github.com/kodyclemens)",
+	"license": "MIT",
+	"keywords": [
+		"delete repo",
+		"github",
+		"repo",
+		"repository",
+		"flatiron school",
+		"delete flatiron repos",
+		"delete github",
+		"remove github repos"
+	],
+	"dependencies": {
+		"@octokit/rest": "^18.0.6",
+		"colors": "^1.4.0",
+		"prompt": "^1.0.0"
+	}
+}
