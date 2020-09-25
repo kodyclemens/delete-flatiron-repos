@@ -1,9 +1,12 @@
 {
-	"name": "delete-flatiron-repos",
-	"version": "1.0.3",
+	"name": "@kodyclemens/delete-flatiron-repos",
+	"version": "1.0.4",
 	"description": "A CLI tool to automatically remove Flatiron School GitHub repositories that were forked during coursework.",
 	"bin": {
 		"delete-flatiron-repos": "./index.js"
+	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
 	},
 	"main": "index.js",
 	"author": "Kody Clemens <kody@kodyclemens.com> (https://github.com/kodyclemens)",
