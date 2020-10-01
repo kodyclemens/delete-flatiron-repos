@@ -10,8 +10,8 @@
 ## Getting Started
 Generate a [GitHub token](https://github.com/settings/tokens/new) with the ```public_repo``` and ```delete_repo``` permissions.
 
-**All repositories containing the strings ```online-web``` or ```bootcamp-prep``` will be removed after you give confirmation in the CLI.**
+**All repositories containing the strings ```online-web```,  ```bootcamp-prep```, ```-web-```, or ```-prework``` will be removed after you give confirmation in the CLI.**
 
 ## Installation
-1. Install the package: ```npm install -g delete-flatiron-repos```
+1. Install the package: ```npm install -g delete-flatiron-repos``` and ensure you're running Node v12+
 2. Run ```delete-flatiron-repos``` from the command line.

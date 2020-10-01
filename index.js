@@ -28,7 +28,7 @@ const schema = {
 let owner;
 let githubToken;
 
-const deleteIfIncluded = ['online-web', 'bootcamp-prep'];
+const deleteIfIncluded = ['online-web', 'bootcamp-prep', '-web-', '-prework'];
 
 async function deleteFlatironRepos() {
 	const octokit = new Octokit({
