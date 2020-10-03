@@ -15,3 +15,6 @@ Generate a [GitHub token](https://github.com/settings/tokens/new) with the ```pu
 ## Installation
 1. Install the package: ```npm install -g delete-flatiron-repos``` and ensure you're running Node v12+
 2. Run ```delete-flatiron-repos``` from the command line.
+
+## NPM
+See NPM page [here](https://www.npmjs.com/package/delete-flatiron-repos).
